@@ -34,7 +34,7 @@ class GameLogic:
 
         self.t = None
         self.game_over = False
-        self.base_vel = 8
+        self.base_vel = 50
         self.v_mul = 1.75
         self.distance = 0.0
         self.l_clr = 0
